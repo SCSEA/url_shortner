@@ -67,7 +67,9 @@ web = input(" Choose any of your choice : ")
 
 if web == "1":
 
-	os.system("clear")	print("""
+	os.system("clear")	
+	
+	print("""
 
 \033[1;32;40m
 
