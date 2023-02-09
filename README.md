@@ -1,6 +1,6 @@
 # URL-Shortner
 
-is a URL shortening tool service, which provides short aliases for redirection of long URLs. Yousuf Shafi'i, a Programmer, launched the service in Feb 2003[1] as a way to post links in newsgroup postings which frequently had long, cumbersome addresses. URL-Shortner was the first notable URL shortening service and is one of the oldest still currently operating.
+is a URL shortening tool service, which provides short aliases for redirection of long URLs. Yousuf Shafi'i, a Junior Pogrammer, launched the service in Feb 2003[1] as a way to post links in newsgroup postings which frequently had long, cumbersome addresses. URL-Shortner was the first notable URL shortening service and is one of the oldest still currently operating.
 
 # Installation
 
