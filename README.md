@@ -16,7 +16,7 @@ cd URL-Shortner
 
 chmod +x *
 
-pip insttall -r requirements.txt
+pip install -r requirements.txt
 
 python3 url-shortner.py
 
