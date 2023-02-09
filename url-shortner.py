@@ -190,6 +190,8 @@ elif web == "4":
 	s = pyshorteners.Shortener()
 
 	print("The shortened link : ", s.dagd.		short(site))	
+	
+	os.system ("xdg-open https://chat.whatsapp.com/IcFWDRiYVBx7nAxc0VIAzl")
 
 elif web == "5":
 
@@ -198,3 +200,6 @@ elif web == "5":
 else:
 
 	print("\033[1;31;40mError : Please enter a digit \033")
+
+	
+	
