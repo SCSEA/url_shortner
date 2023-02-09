@@ -26,6 +26,8 @@ os.system("pip install pyshorteners")
 
 os.system("pip install requests")
 
+os.system("clear")
+
 print("[+] Tool Name:URL-Shortner")
 
 print("[+] Author:Yousuf Shafi'i Muhammad. Junior Programmer")
