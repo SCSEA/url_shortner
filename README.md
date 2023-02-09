@@ -16,6 +16,8 @@ cd URL-Shortner
 
 chmod +x *
 
+pip insttall -r requirements.txt
+
 python3 url-shortner.py
 
 Donation:If you want to Donate Kindly click here Thank you.: https://www.buymeacoffee.com/junioprogrammer
